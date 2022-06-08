@@ -2,8 +2,8 @@
 Creat test project laravel and vue
 
 В папке проекта
-- Запуска контейнера
+Запуск контейнера
 ./vendor/bin/sail up
 
-- Компиляция js скриптов
+Компиляция js скриптов
 npm run watch
