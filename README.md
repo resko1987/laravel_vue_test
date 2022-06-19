@@ -7,3 +7,8 @@ Creat test project laravel and vue
 <br/>
 -- Компиляция js скриптов<br/>
 npm run watch<br/>
+
+Скрины работы
+<img src="/resources/images/image1.jpg">
+<img src="/resources/images/image2.jpg">
+<img src="/resources/images/image3.jpg">
